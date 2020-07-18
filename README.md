@@ -1,3 +1,6 @@
+#Deprecated: Byt3Bl33d3r, the creator of MITMf announced the following:
+This project is no longer being updated. MITMf was written to address the need, at the time, of a modern tool for performing Man-In-The-Middle attacks. Since then many other tools have been created to fill this space, you should probably be using Bettercap as it is far more feature complete and better maintained.
+
 # easy-mitmf
 Install MITMf with a single bash script.
 
